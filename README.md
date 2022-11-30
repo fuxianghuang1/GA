@@ -90,7 +90,7 @@ It is important to note that before running the training of the models, BERT-as-
 
 
 
-The trained model is [here]. (https://pan.baidu.com/s/1ZR1ybjCSR6J9_cJm-Mu7Iw) (password：6s8y)
+The trained model is [here](https://pan.baidu.com/s/1ZR1ybjCSR6J9_cJm-Mu7Iw) (password：6s8y)
 
 
 
