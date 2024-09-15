@@ -1,19 +1,23 @@
-# Adversarial and Isotropic Gradient Augmentation for Image Retrieval with Text Feedback - Accepted at IEEE Transactions on Multimedia 2022
+# [IEEE TMM 2022] GA: Adversarial and Isotropic Gradient Augmentation for Image Retrieval with Text Feedback
+
 The paper can be accessed at: https://ieeexplore.ieee.org/document/9953564
 
 
 If you find this code useful in your research then please cite
-'''
-@ARTICLE{GA_for_IRTF,
+
+
+```bibtex
+@article{huang2022adversarial,
+  title={Adversarial and isotropic gradient augmentation for image retrieval with text feedback},
   author={Huang, Fuxiang and Zhang, Lei and Zhou, Yuhang and Gao, Xinbo},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Adversarial and Isotropic Gradient Augmentation for Image Retrieval with Text Feedback}, 
+  journal={IEEE Transactions on Multimedia},
+  volume={25},
+  pages={7415--7427},
   year={2022},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TMM.2022.3222624}}
-'''
+  publisher={IEEE}
+}
+
+```
 
 
 ## Abstract
